@@ -10,9 +10,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=cyberpwince&theme=algolia&show_icons=true)](https://github.com/cyberpwince)
-
-[![Emmauel Adetona's Top langs](https://github-readme-stats.vercel.app/api/top-langs?username=cyberpwince&theme=algolia&show_icons=true)](https://github.com/cyberpwince)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=cyberpwince&theme=algolia&show_icons=true)](https://github.com/cyberpwince) [![Emmauel Adetona's Top langs](https://github-readme-stats.vercel.app/api/top-langs?username=cyberpwince&theme=algolia&show_icons=true)](https://github.com/cyberpwince)
 
 
 <!---- Cyberpwince/Cyberpwince is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
